@@ -6,7 +6,7 @@
 
 Clean Architecture, 4 проекта:
 
-- **Domain** — сущности, enum'ы, value objects
+- **Domain** — сущности, enum ы, value objects
 - **Application** — интерфейсы, сервисы, DTO
 - **Infrastructure** — in-memory реализации, фейковый SearchEngine, фоновый процессор
 - **Api** — контроллеры, middleware, Program.cs
